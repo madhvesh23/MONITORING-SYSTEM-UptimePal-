@@ -2,7 +2,6 @@
  * Server-related tasks
  *
  */
-
  // Dependencies
  var http = require('http');
  var https = require('https');
@@ -23,6 +22,7 @@ var server = {};
  // Instantiate the HTTP server
 server.httpServer = http.createServer(function(req,res){
    server.unifiedServer(req,res);
+
  });
 
  // Instantiate the HTTPS server
