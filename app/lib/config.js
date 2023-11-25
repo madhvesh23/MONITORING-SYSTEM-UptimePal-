@@ -19,9 +19,9 @@ environments.staging = {
     'fromPhone' : '+15005550006'
   },
   'templateGlobals' : {
-    'appName' : 'UptimeChecker',
-    'companyName' : 'NotARealCompany, Inc.',
-    'yearCreated' : '2018',
+    'appName' : 'UptimePal',
+    'companyName' : 'Madhvesh Chokshi',
+    'yearCreated' : '2023',
     'baseUrl' : 'http://localhost:3000/'
   }
 };
@@ -39,9 +39,9 @@ environments.production = {
     'fromPhone' : ''
   },
   'templateGlobals' : {
-    'appName' : 'UptimeChecker',
-    'companyName' : 'NotARealCompany, Inc.',
-    'yearCreated' : '2018',
+    'appName' : 'UptimePal',
+    'companyName' : 'Madhvesh Chokshi',
+    'yearCreated' : '2023',
     'baseUrl' : 'http://localhost:5000/'
   }
 };

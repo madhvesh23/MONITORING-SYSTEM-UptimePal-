@@ -23,7 +23,7 @@ handlers.index = function(data,callback){
     // Prepare data for interpolation
     var templateData = {
       'head.title' : 'Uptime Monitoring - Made Simple',
-      'head.description' : 'We offer free, simple uptime monitoring for HTTP/HTTPS sites all kinds. When your site goes down, we\'ll send you a text to let you know',
+      'head.description' : 'UptimePal is your steadfast companion in ensuring the seamless performance of your web assets. With a user-friendly interface and robust functionality, this app diligently monitors your HTTP and HTTPS sites, providing real-time status updates. Stay in the loop with instant notifications, and trust UptimePal to safeguard your online presence by promptly identifying and alerting you to any downtime. Effortlessly keep your digital landscape thriving with UptimePal – where reliability meets simplicity.',
       'body.class' : 'index'
     };
     // Read in a template as a string
