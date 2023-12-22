@@ -1,1 +1,0 @@
-{"check":{"id":"kw9ffugnp1ocyvihax9b","userPhone":"9925111428","protocol":"https","url":"instagram.com","method":"get","successCodes":[200,201],"timeoutSeconds":1,"state":"down","lastChecked":false},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1700902435422}
